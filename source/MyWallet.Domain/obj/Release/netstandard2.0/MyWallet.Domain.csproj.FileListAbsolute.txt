@@ -1,8 +1,0 @@
-/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/bin/Release/netstandard2.0/MyWallet.Domain.deps.json
-/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/bin/Release/netstandard2.0/MyWallet.Domain.dll
-/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/bin/Release/netstandard2.0/MyWallet.Domain.pdb
-/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/obj/Release/netstandard2.0/MyWallet.Domain.csproj.CoreCompileInputs.cache
-/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/obj/Release/netstandard2.0/MyWallet.Domain.AssemblyInfoInputs.cache
-/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/obj/Release/netstandard2.0/MyWallet.Domain.AssemblyInfo.cs
-/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/obj/Release/netstandard2.0/MyWallet.Domain.dll
-/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/obj/Release/netstandard2.0/MyWallet.Domain.pdb
