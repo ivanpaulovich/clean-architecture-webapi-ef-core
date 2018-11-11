@@ -1,0 +1,21 @@
+﻿{
+  "defaultAssembly": "MyWallet.Infrastructure",
+  "modules": [
+    {
+      "type": "MyWallet.WebApi.WebApiModule,MyWallet.WebApi",
+      "properties": {
+      }
+    },
+    {
+      "type": "MyWallet.Infrastructure.ApplicationModule",
+      "properties": {
+      }
+    },
+    {
+      "type": "MyWallet.Infrastructure.EntityFrameworkDataAccess.EntityFrameworkModule",
+      "properties": {
+        "ConnectionString": "Server=localhost;Database=MyWalletDB;User Id=sa;Password=<YourNewStrong!Passw0rd>;"
+      }
+    }
+  ]
+}

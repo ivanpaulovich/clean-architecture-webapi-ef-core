@@ -1,0 +1,28 @@
+namespace MyWallet.WebApi.UseCases.Withdraw {
+    using System.Threading.Tasks;
+    using MyWallet.Application.UseCases.Withdraw;
+    using Microsoft.AspNetCore.Mvc;
+
+    [Route ("api/[controller]")]
+    public class AccountsController : Controller {
+        private readonly IWithdrawUseCase _withdrawUseCase;
+        private readonly Presenter _presenter;
+
+        public AccountsController (
+            IWithdrawUseCase withdrawUseCase,
+            Presenter presenter) {
+            _withdrawUseCase = withdrawUseCase;
+            _presenter = presenter;
+        }
+
+        /// <summary>
+        /// Withdraw from an account
+        /// </summary>
+        [HttpPatch ("Withdraw")]
+        public async Task<IActionResult> Withdraw ([FromBody] WithdrawRequest request) {
+            WithdrawOutput output = await _withdrawUseCase.Execute (request.AccountId, request.Amount);
+            _presenter.Populate (output);
+            return _presenter.ViewModel;
+        }
+    }
+}

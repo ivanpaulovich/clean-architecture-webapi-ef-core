@@ -1,0 +1,18 @@
+﻿{
+  "defaultAssembly": "MyWallet.Infrastructure",
+  "modules": [
+    {
+      "type": "MyWallet.WebApi.WebApiModule,MyWallet.WebApi",
+      "properties": {
+      }
+    },
+    {
+      "type": "MyWallet.Infrastructure.ApplicationModule",
+      "properties": {
+      }
+    },
+    {
+      "type": "MyWallet.Infrastructure.InMemoryDataAccess.InMemoryModule"
+    }
+  ]
+}

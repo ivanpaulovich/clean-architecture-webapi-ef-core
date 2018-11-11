@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.WebApi/Finance.WebApi.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.0",
+    "LanguageVersion": "2.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.0"
+      }
+    ]
+  }
+}

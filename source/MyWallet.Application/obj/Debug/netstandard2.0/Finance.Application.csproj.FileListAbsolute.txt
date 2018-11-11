@@ -1,0 +1,12 @@
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Application/bin/Debug/netstandard2.0/Finance.Application.deps.json
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Application/bin/Debug/netstandard2.0/Finance.Application.dll
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Application/bin/Debug/netstandard2.0/Finance.Application.pdb
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Application/bin/Debug/netstandard2.0/Finance.Domain.dll
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Application/bin/Debug/netstandard2.0/Finance.Domain.pdb
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Application/obj/Debug/netstandard2.0/Finance.Application.csprojAssemblyReference.cache
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Application/obj/Debug/netstandard2.0/Finance.Application.csproj.CoreCompileInputs.cache
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Application/obj/Debug/netstandard2.0/Finance.Application.AssemblyInfoInputs.cache
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Application/obj/Debug/netstandard2.0/Finance.Application.AssemblyInfo.cs
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Application/obj/Debug/netstandard2.0/Finance.Application.csproj.CopyComplete
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Application/obj/Debug/netstandard2.0/Finance.Application.dll
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Application/obj/Debug/netstandard2.0/Finance.Application.pdb

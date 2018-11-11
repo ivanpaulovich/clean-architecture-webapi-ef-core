@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/MyWallet.Application.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

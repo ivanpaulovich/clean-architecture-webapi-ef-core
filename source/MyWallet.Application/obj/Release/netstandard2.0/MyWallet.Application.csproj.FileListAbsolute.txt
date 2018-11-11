@@ -1,0 +1,12 @@
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/bin/Release/netstandard2.0/MyWallet.Application.deps.json
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/bin/Release/netstandard2.0/MyWallet.Application.dll
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/bin/Release/netstandard2.0/MyWallet.Application.pdb
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/bin/Release/netstandard2.0/MyWallet.Domain.dll
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/bin/Release/netstandard2.0/MyWallet.Domain.pdb
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/obj/Release/netstandard2.0/MyWallet.Application.csprojAssemblyReference.cache
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/obj/Release/netstandard2.0/MyWallet.Application.csproj.CoreCompileInputs.cache
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/obj/Release/netstandard2.0/MyWallet.Application.AssemblyInfoInputs.cache
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/obj/Release/netstandard2.0/MyWallet.Application.AssemblyInfo.cs
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/obj/Release/netstandard2.0/MyWallet.Application.csproj.CopyComplete
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/obj/Release/netstandard2.0/MyWallet.Application.dll
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/obj/Release/netstandard2.0/MyWallet.Application.pdb

@@ -1,0 +1,14 @@
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/obj/Debug/netstandard2.0/Finance.Infrastructure.csprojAssemblyReference.cache
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/obj/Debug/netstandard2.0/Finance.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/obj/Debug/netstandard2.0/Finance.Infrastructure.AssemblyInfoInputs.cache
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/obj/Debug/netstandard2.0/Finance.Infrastructure.AssemblyInfo.cs
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/bin/Debug/netstandard2.0/Finance.Infrastructure.deps.json
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/bin/Debug/netstandard2.0/Finance.Infrastructure.dll
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/bin/Debug/netstandard2.0/Finance.Infrastructure.pdb
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/bin/Debug/netstandard2.0/Finance.Application.dll
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/bin/Debug/netstandard2.0/Finance.Domain.dll
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/bin/Debug/netstandard2.0/Finance.Application.pdb
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/bin/Debug/netstandard2.0/Finance.Domain.pdb
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/obj/Debug/netstandard2.0/Finance.Infrastructure.csproj.CopyComplete
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/obj/Debug/netstandard2.0/Finance.Infrastructure.dll
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/Finance.Infrastructure/obj/Debug/netstandard2.0/Finance.Infrastructure.pdb

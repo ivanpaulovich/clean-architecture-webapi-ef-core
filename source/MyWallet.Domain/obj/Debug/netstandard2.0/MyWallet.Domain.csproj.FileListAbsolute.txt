@@ -1,0 +1,9 @@
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/bin/Debug/netstandard2.0/MyWallet.Domain.deps.json
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/bin/Debug/netstandard2.0/MyWallet.Domain.dll
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/bin/Debug/netstandard2.0/MyWallet.Domain.pdb
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/obj/Debug/netstandard2.0/MyWallet.Domain.csprojAssemblyReference.cache
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/obj/Debug/netstandard2.0/MyWallet.Domain.csproj.CoreCompileInputs.cache
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/obj/Debug/netstandard2.0/MyWallet.Domain.AssemblyInfoInputs.cache
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/obj/Debug/netstandard2.0/MyWallet.Domain.AssemblyInfo.cs
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/obj/Debug/netstandard2.0/MyWallet.Domain.dll
+/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/obj/Debug/netstandard2.0/MyWallet.Domain.pdb

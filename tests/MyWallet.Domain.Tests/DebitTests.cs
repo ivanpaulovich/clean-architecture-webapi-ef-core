@@ -1,0 +1,25 @@
+namespace MyWallet.DomainTests
+{
+    using Xunit;
+    using MyWallet.Domain.Accounts;
+    using System;
+
+    public class DebitTests
+    {
+        [Fact]
+        public void Debit_Should_Be_Loaded()
+        {
+            Debit debit = Debit.LoadFromDetails(
+                Guid.Empty,
+                Guid.Empty,
+                100,
+                DateTime.Today);
+
+            Assert.Equal(Guid.Empty, debit.Id);
+            Assert.Equal(Guid.Empty, debit.AccountId);
+            Assert.Equal(100, debit.Amount);
+            Assert.Equal(DateTime.Today, debit.TransactionDate);
+            Assert.Equal("Debit", debit.Description);
+        }
+    }
+}
