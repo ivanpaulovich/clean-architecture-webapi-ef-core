@@ -15390,11 +15390,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/tests/MyWallet.WebApi.Tests/MyWallet.WebApi.Tests.csproj",
+      "projectUniqueName": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/tests/MyWallet.WebApi.Tests/MyWallet.WebApi.Tests.csproj",
       "projectName": "MyWallet.WebApi.Tests",
-      "projectPath": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/tests/MyWallet.WebApi.Tests/MyWallet.WebApi.Tests.csproj",
+      "projectPath": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/tests/MyWallet.WebApi.Tests/MyWallet.WebApi.Tests.csproj",
       "packagesPath": "/Users/ivanpaulovich/.nuget/packages/",
-      "outputPath": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/tests/MyWallet.WebApi.Tests/obj/",
+      "outputPath": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/tests/MyWallet.WebApi.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -15411,8 +15411,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.WebApi/MyWallet.WebApi.csproj": {
-              "projectPath": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.WebApi/MyWallet.WebApi.csproj"
+            "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.WebApi/MyWallet.WebApi.csproj": {
+              "projectPath": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.WebApi/MyWallet.WebApi.csproj"
             }
           }
         }

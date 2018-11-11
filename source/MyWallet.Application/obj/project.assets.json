@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/MyWallet.Application.csproj",
+      "projectUniqueName": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Application/MyWallet.Application.csproj",
       "projectName": "MyWallet.Application",
-      "projectPath": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/MyWallet.Application.csproj",
+      "projectPath": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Application/MyWallet.Application.csproj",
       "packagesPath": "/Users/ivanpaulovich/.nuget/packages/",
-      "outputPath": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/obj/",
+      "outputPath": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Application/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -220,8 +220,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/MyWallet.Domain.csproj": {
-              "projectPath": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Domain/MyWallet.Domain.csproj"
+            "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Domain/MyWallet.Domain.csproj": {
+              "projectPath": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Domain/MyWallet.Domain.csproj"
             }
           }
         }

@@ -14319,11 +14319,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.WebApi/MyWallet.WebApi.csproj",
+      "projectUniqueName": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.WebApi/MyWallet.WebApi.csproj",
       "projectName": "MyWallet.WebApi",
-      "projectPath": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.WebApi/MyWallet.WebApi.csproj",
+      "projectPath": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.WebApi/MyWallet.WebApi.csproj",
       "packagesPath": "/Users/ivanpaulovich/.nuget/packages/",
-      "outputPath": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.WebApi/obj/",
+      "outputPath": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.WebApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -14340,11 +14340,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/MyWallet.Application.csproj": {
-              "projectPath": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Application/MyWallet.Application.csproj"
+            "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Application/MyWallet.Application.csproj": {
+              "projectPath": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Application/MyWallet.Application.csproj"
             },
-            "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/MyWallet.Infrastructure.csproj": {
-              "projectPath": "/Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/MyWallet.Infrastructure.csproj"
+            "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/MyWallet.Infrastructure.csproj": {
+              "projectPath": "/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/MyWallet.Infrastructure.csproj"
             }
           }
         }

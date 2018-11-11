@@ -12,3 +12,17 @@
 /Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/obj/Debug/netstandard2.0/MyWallet.Infrastructure.csproj.CopyComplete
 /Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/obj/Debug/netstandard2.0/MyWallet.Infrastructure.dll
 /Users/ivanpaulovich/git/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/obj/Debug/netstandard2.0/MyWallet.Infrastructure.pdb
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/bin/Debug/netstandard2.0/MyWallet.Infrastructure.deps.json
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/bin/Debug/netstandard2.0/MyWallet.Infrastructure.dll
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/bin/Debug/netstandard2.0/MyWallet.Infrastructure.pdb
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/bin/Debug/netstandard2.0/MyWallet.Application.dll
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/bin/Debug/netstandard2.0/MyWallet.Domain.dll
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/bin/Debug/netstandard2.0/MyWallet.Application.pdb
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/bin/Debug/netstandard2.0/MyWallet.Domain.pdb
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/obj/Debug/netstandard2.0/MyWallet.Infrastructure.csprojAssemblyReference.cache
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/obj/Debug/netstandard2.0/MyWallet.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/obj/Debug/netstandard2.0/MyWallet.Infrastructure.AssemblyInfoInputs.cache
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/obj/Debug/netstandard2.0/MyWallet.Infrastructure.AssemblyInfo.cs
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/obj/Debug/netstandard2.0/MyWallet.Infrastructure.csproj.CopyComplete
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/obj/Debug/netstandard2.0/MyWallet.Infrastructure.dll
+/Users/ivanpaulovich/newgit/clean-architecture-webapi-ef-core/source/MyWallet.Infrastructure/obj/Debug/netstandard2.0/MyWallet.Infrastructure.pdb
