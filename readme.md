@@ -22,10 +22,10 @@ To run on top of a SQL Server persistance layer you need to setup the SQL Server
 dotnet run --environment="production" --project source/MyWallet.WebApi/MyWallet.WebApi.csproj
 ```
 
-Then navigate to the [Swagger](http://localhost:5000/) or run in command-line:
+Then navigate to the Swagger URL `http://localhost:5000/` or run in command-line:
 
 ```sh
-curl -X POST "http://localhost:5000/api/Customers" -H "accept: application/json" -H "Content-Type: application/json-patch+json" -d "{ \"personnummer\": \"198608178877\", \"name\": \"string\", \"initialAmount\": 440}"
+curl -X POST "http://localhost:5500/api/Customers" -H "accept: application/json" -H "Content-Type: application/json-patch+json" -d "{ \"personnummer\": \"198608178877\", \"name\": \"string\", \"initialAmount\": 440}"
 ```
 
 ## :floppy_disk: SQL Server Database
